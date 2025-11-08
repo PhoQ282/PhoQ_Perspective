@@ -1,4 +1,4 @@
-# phoq_perspective
+# PhoQ Perspective
 A lightweight **hold-to-zoom** third/first-person camera for FiveM.  
 This script provides a smooth zoom effect while holding the **middle mouse button**, without any freecam or noclip systems attached.
 
